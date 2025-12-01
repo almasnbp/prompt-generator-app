@@ -28,16 +28,21 @@ type ApiSource = "system" | "user";
 // GANTI DENGAN KUNCI API GEMINI ANDA YANG SEBENARNYA DI SINI
 const SYSTEM_API_KEYS: string[] = [
   // "Isi dengan API KEY mu sendiri",
-  "AIzaSyCe9nA3mAIBuqW9089PsqfHm7AwJk00c9A",
-  "AIzaSyBdm4zVjr6g3hn2IhYplAxzqV0qhLlwzkE",
-  "AIzaSyDpdytRzoDCq1wi4l475s7dFvVOVoSfL_I",
-  "AIzaSyAtAWfMtjOfQ6idID2gvCT1F1uw9aZBr2E",
-  "AIzaSyAsUtoY_ynbDcxJtihueM0jVVu896S7lkA",
-  "AIzaSyAkjz01Why_3m6L-k2vlnbFrjyZjLtDWKY",
-  "AIzaSyCsqRZA4gK8ZsbIw17ofloQonF_qTE5a-8",
-  "AIzaSyBWTly-IkMMBt20sOGGi6ZeGDk2vqdu6dA",
-  "AIzaSyDTdwDM52hIAlE8bF6zObRu6CHZi_0u9hM",
-  "AIzaSyD405biRF3aOIH9sut6GlT-5JR29L8lZMs",
+  // "AIzaSyCe9nA3mAIBuqW9089PsqfHm7AwJk00c9A",
+  // "AIzaSyBdm4zVjr6g3hn2IhYplAxzqV0qhLlwzkE",
+  // "AIzaSyDpdytRzoDCq1wi4l475s7dFvVOVoSfL_I",
+  // "AIzaSyAtAWfMtjOfQ6idID2gvCT1F1uw9aZBr2E",
+  // "AIzaSyAsUtoY_ynbDcxJtihueM0jVVu896S7lkA",
+  // "AIzaSyAkjz01Why_3m6L-k2vlnbFrjyZjLtDWKY",
+  // "AIzaSyCsqRZA4gK8ZsbIw17ofloQonF_qTE5a-8",
+  // "AIzaSyBWTly-IkMMBt20sOGGi6ZeGDk2vqdu6dA",
+  // "AIzaSyDTdwDM52hIAlE8bF6zObRu6CHZi_0u9hM",
+  // "AIzaSyD405biRF3aOIH9sut6GlT-5JR29L8lZMs",
+  "AIzaSyAj93I1m9KLg_PVy12PMtn9BtYpcNQ5l6s",
+  "AIzaSyAz-9QVQM48ObncujzOeX9sYsdrdXdMq_Y",
+  "AIzaSyBU75xPZ23-by8RTeJ-_AjnEDvlwsFVsTc",
+  "AIzaSyCVGPb5n_5nO-XIcUrVYqMeMrPhmcLmV0c",
+  "AIzaSyByTeNiCn1S9bxR94z4cKL9lZsLgvC9YnA",
 ];
 
 const INJECTED_API_KEY: string = "";
